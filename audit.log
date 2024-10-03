@@ -1,0 +1,4 @@
+2024-09-15 07:17:17,057 - apscheduler.scheduler - INFO - Scheduler started
+2024-09-15 07:20:57,323 - websocket - INFO - Websocket connected
+2024-09-15 07:20:57,327 - websocket - INFO - Websocket connected
+2024-09-15 07:33:10,251 - websocket - ERROR - Connection to remote host was lost. - goodbye
